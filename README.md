@@ -45,7 +45,7 @@ pip install -r requirements.txt
 If you use KinMind in your research or teaching, please cite:
 
 Palacios, S. (2025). KinMind: Real-Time Prediction of Attendance and Engagement in Virtual Classrooms.
-GitHub Repository: https://github.com/YOUR_USERNAME/KinMind
+GitHub Repository: https://github.com/Mayan-Mind/KinMind
 
 ## License
 
