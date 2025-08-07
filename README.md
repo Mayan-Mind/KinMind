@@ -30,7 +30,7 @@ This project was developed as part of the graduate course **Gestión de la Educa
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/KinMind.git
+git clone https://github.com/Mayan-Mind/KinMind.git
 cd KinMind
 
 # Create and activate virtual environment (optional but recommended)
