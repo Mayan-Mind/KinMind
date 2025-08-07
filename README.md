@@ -39,6 +39,13 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+## Citation
+If you use KinMind in your research or teaching, please cite:
+
+Palacios, S. (2025). KinMind: Real-Time Prediction of Attendance and Engagement in Virtual Classrooms.
+GitHub Repository: https://github.com/YOUR_USERNAME/KinMind
 
 ## License
 
